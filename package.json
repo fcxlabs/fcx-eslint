@@ -1,10 +1,10 @@
 {
   "name": "@fcxlabs/fcx-eslint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "ESLint configuration used by FCx Labs",
   "main": "index.js",
-  "author": "",
+  "author": "fcxlabs",
   "license": "MIT",
   "peerDependencies": {
     "eslint": "^8.56.0"
@@ -28,5 +28,17 @@
     "eslint-plugin-security": "^1.7.1",
     "eslint-plugin-sonarjs": "^0.25.1",
     "typescript-eslint": "^7.8.0"
-  }
+  },
+  "keywords": [
+    "eslint",
+    "ferreira costa"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcxlabs/fcx-eslint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fcxlabs/fcx-eslint/issues"
+  },
+  "homepage": "https://github.com/fcxlabs/fcx-eslint#readme"
 }
