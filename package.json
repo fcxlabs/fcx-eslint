@@ -1,6 +1,6 @@
 {
   "name": "@fcxlabs/fcx-eslint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "ESLint configuration used by FCx Labs",
   "main": "index.js",
@@ -19,6 +19,7 @@
     "@typescript-eslint/parser": "^7.7.1",
     "eslint": "^8.56.0",
     "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-next": "^14.2.3",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-cypress": "^3.0.3",
     "eslint-plugin-jsx-a11y": "^6.8.0",
